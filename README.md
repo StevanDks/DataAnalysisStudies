@@ -6,7 +6,7 @@ A collection of data analysis and statistics projects developed in Python using 
 
 ## Projects
 
-### 1. Student Dropout Analysis (`TrabalhoXMAC/`)
+### 1. Student Dropout Analysis (`student_dropout_analysis.ipynb`)
 Exploratory analysis of a dataset with 700 students from secondary school, investigating factors that contribute to school dropout.
 
 **Topics covered:**
@@ -20,7 +20,7 @@ Exploratory analysis of a dataset with 700 students from secondary school, inves
 
 ---
 
-### 2. Heart Attack Risk Analysis (`AA1/`)
+### 2. Heart Attack Risk Analysis (`heart_attack_risk_analysis.ipynb`)
 Data visualization exercise using a heart attack risk dataset, exploring relationships between demographic and clinical variables.
 
 **Topics covered:**
@@ -32,7 +32,7 @@ Data visualization exercise using a heart attack risk dataset, exploring relatio
 
 ---
 
-### 3. Hypothesis Testing (`AA2/`)
+### 3. Hypothesis Testing (`hypothesis_testing.ipynb`)
 Statistical hypothesis testing using Seaborn datasets, applying one-sample and two-sample t-tests.
 
 **Tests performed:**
