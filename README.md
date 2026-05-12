@@ -63,7 +63,7 @@ Statistical hypothesis testing using Seaborn datasets, applying one-sample and t
 ```
 DataAnalysis-Studies/
 ├── student_dropout_analysis.ipynb
-├── student dropout.csv
+├── student_dropout.csv
 ├── heart_attack_risk_analysis.ipynb
 └── hypothesis_testing.ipynb
 ```
